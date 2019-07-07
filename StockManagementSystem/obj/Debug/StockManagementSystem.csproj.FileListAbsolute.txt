@@ -1,0 +1,6 @@
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+G:\BITM 2018\code\Project Stock Management System\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
